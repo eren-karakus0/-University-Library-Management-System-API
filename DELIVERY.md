@@ -154,5 +154,3 @@ Swagger Editor üzerinden yapılan testler:
 - Modern OpenAPI spesifikasyonu kullanılmıştır
 - JSON Schema draft 2020-12 desteği
 - Nullable fields için doğru syntax
-
-API tasarım

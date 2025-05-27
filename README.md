@@ -197,9 +197,9 @@ API spesifikasyonuna katkıda bulunmak için:
 
 ## 📞 İletişim
 
-- **Proje Sahibi**: [Adınız]
-- **E-posta**: [E-posta adresiniz]
-- **GitHub**: [GitHub profiliniz]
+- **Proje Sahibi**: Muhammet Eren Karakuş
+- **E-posta**: erenkar950@gmail.com
+- **GitHub**: https://github.com/eren-karakus0
 
 ---
 
